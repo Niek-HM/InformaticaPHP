@@ -23,3 +23,10 @@ First you start in index.php. This by itself is useless but I added it for struc
 Next you go to the chosenWord.php or randomWord.php. The randomWord.php contains an array of words of witch it selects one and breaks it into a sepperate array. The chosenWord.php waits for you to input a word and press submit then it makes sure your letter don't contain a capital and then break it up into an array.
 
 After this you will get sent to the actual game (theGame.php). Here you can find a lot of code and it may look confusing but it is actually fairly simple. It starts with the 2 main functions. The first one starts the game and resets all the variables. The next one checks if the letter you selected is correct and makes appropriate changes. (add 1 to mistakes or show the letter in the correct possitions). Then we display the image and word (* or letters based on correct guesses). And lastly we check if you have won or lost and display this if nessesary. 
+
+#### Requirements
+In order to run on a windows PC you will need:
+- xampp (turn on apache).
+- make sure you put the files under xampp/htdocs/(their own folders).
+- start the browser and go to localhost/(your folders)/php/index.php
+
