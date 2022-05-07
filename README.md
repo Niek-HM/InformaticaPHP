@@ -30,3 +30,5 @@ In order to run on a windows PC you will need:
 - make sure you put the files under xampp/htdocs/(their own folders).
 - start the browser and go to localhost/(your folders)/php/index.php
 
+#### What I have learned
+I never really used php before so I think learned a lot from about user-side programming. I learned a lot ranging from sessions to being able to include html into the php and back with echoing. Furthermore i did already know a lot about how to use logic and structure because it looks a lot like javascript in my opinion. Lastly i think I could improve it a little bit more by merging the randomWord.php and the chosenWord.php into 1 file because it was fairly small and would only need 1 variable more in the session. However I have set it up as a framework so I can add more 'games'. Another chalange was that I asked someone else what I should do and I build it based on these instructions.
