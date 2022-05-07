@@ -10,10 +10,10 @@ For this project i needed to make a website based on PHP. So, I made a simple ha
 4. Verschillende stappen op basis van gebruiker invoer (keuze functie)
 5. Het gebruik van verschillende berekeningen/logische operatoren
 6. Het gebruik van herhaalopdrachten
-7 Het gebruik van een sessie
-8 Commentaar en logische codering
-9 Extra functionaliteit eigen keuze
-10 Compleetheid documentatie/bestanden
+7. Het gebruik van een sessie
+8. Commentaar en logische codering
+9. Extra functionaliteit eigen keuze
+10. Compleetheid documentatie/bestanden
 
 So, i broke up the project in multiple folders. First you have /html/ in witch you can find all the html files but these do not have mutch in them. For most of the files you will have to go to /php/ because here i do all the functions. I even echo some stuff to the html to display. Lastly you have /css/. Here i put some simple styling for the html to make it look a bit more acceptable.
 
